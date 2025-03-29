@@ -1,0 +1,18 @@
+{"time":"2025-03-23T16:38:08.426691+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_163808-gltv6pvw/logs/debug-core.log"}
+{"time":"2025-03-23T16:38:08.537545+08:00","level":"INFO","msg":"created new stream","id":"gltv6pvw"}
+{"time":"2025-03-23T16:38:08.537595+08:00","level":"INFO","msg":"stream: started","id":"gltv6pvw"}
+{"time":"2025-03-23T16:38:08.5376+08:00","level":"INFO","msg":"handler: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:38:08.537663+08:00","level":"INFO","msg":"sender: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:38:08.5377+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:38:09.440493+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T16:38:09.590925+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T16:41:06.120779+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T16:41:08.369489+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-23T16:41:08.37001+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-23T16:41:09.378367+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact ipynb","runtime_seconds":1.692922125},{"desc":"uploading output.log","runtime_seconds":0.43111025,"progress":"73B/73B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.431095417,"progress":"1.4KB/1.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.171424375,"progress":"794B/794B"}],"total_operations":4}}
+{"time":"2025-03-23T16:41:10.510816+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-23T16:41:11.013304+08:00","level":"INFO","msg":"stream: closing","id":"gltv6pvw"}
+{"time":"2025-03-23T16:41:11.013326+08:00","level":"INFO","msg":"handler: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:41:11.013335+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:41:11.013345+08:00","level":"INFO","msg":"sender: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:41:11.013538+08:00","level":"INFO","msg":"stream: closed","id":"gltv6pvw"}

@@ -1,0 +1,36 @@
+2025-03-23 13:43:54,493 INFO    MainThread:67369 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_setup.py:_flush():67] Configure stats pid to 67369
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_setup.py:_flush():67] Loading settings from /Users/wsincos/.config/wandb/settings
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_setup.py:_flush():67] Loading settings from /Users/wsincos/Desktop/动手学深度学习/tools/wandb/settings
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_134354-gltv6pvw/logs/debug.log
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_134354-gltv6pvw/logs/debug-internal.log
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x145d0b200>
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_init.py:init():761] calling init triggers
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'project_name': 'wandb_demo', 'batch_size': 256, 'hidden_layer_width': 64, 'dropout_p': 0.1, 'lr': 0.0001, 'optim_type': 'Adam', 'epochs': 15, 'ckpt_path': 'checkpoint.pt', '_wandb': {'code_path': 'code/wandb.ipynb'}}
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_init.py:init():784] starting backend
+2025-03-23 13:43:54,494 INFO    MainThread:67369 [wandb_init.py:init():788] sending inform_init request
+2025-03-23 13:43:54,510 INFO    MainThread:67369 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-03-23 13:43:54,511 INFO    MainThread:67369 [wandb_init.py:init():798] backend started and connected
+2025-03-23 13:43:54,514 INFO    MainThread:67369 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-23 13:43:54,515 INFO    MainThread:67369 [wandb_init.py:init():891] updated telemetry
+2025-03-23 13:43:54,515 INFO    MainThread:67369 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-23 13:43:56,610 INFO    MainThread:67369 [wandb_init.py:init():990] starting run threads in backend
+2025-03-23 13:43:56,752 INFO    MainThread:67369 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-23 13:43:56,752 INFO    MainThread:67369 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-23 13:43:56,752 INFO    MainThread:67369 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-23 13:43:56,752 INFO    MainThread:67369 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-23 13:43:56,753 INFO    MainThread:67369 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-23 13:46:52,953 INFO    MainThread:67369 [wandb_run.py:_finish():2112] finishing run wsincos1025/wandb_demo/gltv6pvw
+2025-03-23 13:46:52,983 INFO    MainThread:67369 [jupyter.py:save_history():487] saving 6 cells to _session_history.ipynb
+2025-03-23 13:46:52,984 INFO    MainThread:67369 [wandb_run.py:_config_callback():1261] config_cb ('_wandb', 'session_history') code/_session_history.ipynb None
+2025-03-23 13:46:52,986 INFO    MainThread:67369 [jupyter.py:_save_ipynb():397] looking for notebook: /Users/wsincos/Desktop/动手学深度学习/tools/wandb.ipynb
+2025-03-23 13:46:53,641 INFO    MainThread:67369 [wandb_init.py:_jupyter_teardown():580] saved code and history: <Artifact source-wandb_demo-_Users_wsincos_Desktop_________tools_wandb.ipynb>
+2025-03-23 13:46:53,642 INFO    MainThread:67369 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-23 13:46:53,642 INFO    MainThread:67369 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-23 13:46:53,642 INFO    MainThread:67369 [wandb_run.py:_restore():2322] restore
+2025-03-23 13:46:53,643 INFO    MainThread:67369 [wandb_run.py:_restore():2328] restore done
+2025-03-23 13:46:57,678 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-23 13:46:57,678 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-23 13:46:57,679 INFO    MainThread:67369 [wandb_run.py:_footer_sync_info():3917] logging synced files

@@ -1,0 +1,343 @@
+2025-03-23 16:12:00,728 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_161200-gltv6pvw/logs/debug.log
+2025-03-23 16:12:00,728 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_161200-gltv6pvw/logs/debug-internal.log
+2025-03-23 16:12:00,728 INFO    MainThread:67369 [wandb_init.py:init():761] calling init triggers
+2025-03-23 16:12:00,728 INFO    MainThread:67369 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 16:12:00,729 INFO    MainThread:67369 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-23 16:12:00,730 INFO    MainThread:67369 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 16:12:00,731 INFO    MainThread:67369 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 16:16:41,519 INFO    MainThread:67369 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 16:16:43,853 INFO    MainThread:67369 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 16:16:43,853 INFO    MainThread:67369 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 16:16:52,222 INFO    MainThread:67369 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 16:16:52,224 INFO    MainThread:67369 [wandb_run.py:_finish():2112] finishing run wsincos1025/wandb_demo/gltv6pvw
+2025-03-23 16:16:52,225 INFO    MainThread:67369 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-23 16:16:52,225 INFO    MainThread:67369 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 16:16:52,225 INFO    MainThread:67369 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-23 16:16:52,226 INFO    MainThread:67369 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-23 16:16:52,226 INFO    MainThread:67369 [wandb_run.py:_restore():2322] restore
+2025-03-23 16:16:52,226 INFO    MainThread:67369 [wandb_run.py:_restore():2328] restore done
+2025-03-23 16:17:01,254 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-23 16:17:01,256 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-23 16:17:01,258 INFO    MainThread:67369 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-03-23 16:26:31,444 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_162631-gltv6pvw/logs/debug.log
+2025-03-23 16:26:31,444 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_162631-gltv6pvw/logs/debug-internal.log
+2025-03-23 16:26:31,444 INFO    MainThread:67369 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x145d35280>
+2025-03-23 16:26:31,446 INFO    MainThread:67369 [wandb_init.py:init():761] calling init triggers
+2025-03-23 16:26:31,446 INFO    MainThread:67369 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 16:26:31,446 INFO    MainThread:67369 [wandb_init.py:init():784] starting backend
+2025-03-23 16:26:31,446 INFO    MainThread:67369 [wandb_init.py:init():788] sending inform_init request
+2025-03-23 16:26:31,448 INFO    MainThread:67369 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-03-23 16:26:31,448 INFO    MainThread:67369 [wandb_init.py:init():798] backend started and connected
+2025-03-23 16:26:31,458 INFO    MainThread:67369 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-23 16:26:31,460 INFO    MainThread:67369 [wandb_init.py:init():891] updated telemetry
+2025-03-23 16:26:31,461 INFO    MainThread:67369 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-23 16:26:38,016 INFO    MainThread:67369 [wandb_init.py:init():985] run resumed
+2025-03-23 16:26:38,017 INFO    MainThread:67369 [wandb_init.py:init():990] starting run threads in backend
+2025-03-23 16:26:38,149 INFO    MainThread:67369 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-23 16:26:38,149 INFO    MainThread:67369 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-23 16:26:38,149 INFO    MainThread:67369 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-23 16:26:38,149 INFO    MainThread:67369 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-23 16:26:38,149 INFO    MainThread:67369 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-23 16:26:47,138 INFO    MainThread:67369 [wandb_run.py:_finish():2112] finishing run wsincos1025/wandb_demo/gltv6pvw
+2025-03-23 16:26:47,138 INFO    MainThread:67369 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-23 16:26:47,138 INFO    MainThread:67369 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 16:26:47,138 INFO    MainThread:67369 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-23 16:26:47,139 INFO    MainThread:67369 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-23 16:26:47,139 INFO    MainThread:67369 [wandb_run.py:_restore():2322] restore
+2025-03-23 16:26:47,139 INFO    MainThread:67369 [wandb_run.py:_restore():2328] restore done
+2025-03-23 16:26:51,897 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-23 16:26:51,898 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-23 16:26:51,900 INFO    MainThread:67369 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-03-23 16:38:08,423 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_163808-gltv6pvw/logs/debug.log
+2025-03-23 16:38:08,424 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_163808-gltv6pvw/logs/debug-internal.log
+2025-03-23 16:38:08,424 INFO    MainThread:67369 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x146155e50>
+2025-03-23 16:38:08,424 INFO    MainThread:67369 [wandb_init.py:init():761] calling init triggers
+2025-03-23 16:38:08,424 INFO    MainThread:67369 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 16:38:08,424 INFO    MainThread:67369 [wandb_init.py:init():784] starting backend
+2025-03-23 16:38:08,424 INFO    MainThread:67369 [wandb_init.py:init():788] sending inform_init request
+2025-03-23 16:38:08,425 INFO    MainThread:67369 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-03-23 16:38:08,425 INFO    MainThread:67369 [wandb_init.py:init():798] backend started and connected
+2025-03-23 16:38:08,431 INFO    MainThread:67369 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-23 16:38:08,432 INFO    MainThread:67369 [wandb_init.py:init():891] updated telemetry
+2025-03-23 16:38:08,433 INFO    MainThread:67369 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-23 16:38:09,438 INFO    MainThread:67369 [wandb_init.py:init():985] run resumed
+2025-03-23 16:38:09,439 INFO    MainThread:67369 [wandb_init.py:init():990] starting run threads in backend
+2025-03-23 16:38:09,589 INFO    MainThread:67369 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-23 16:38:09,589 INFO    MainThread:67369 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-23 16:38:09,590 INFO    MainThread:67369 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-23 16:38:09,590 INFO    MainThread:67369 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-23 16:38:09,590 INFO    MainThread:67369 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-23 16:38:09,590 INFO    MainThread:67369 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 16:38:09,590 INFO    MainThread:67369 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 16:41:06,118 INFO    MainThread:67369 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 16:41:08,368 INFO    MainThread:67369 [wandb_run.py:_finish():2112] finishing run wsincos1025/wandb_demo/gltv6pvw
+2025-03-23 16:41:08,368 INFO    MainThread:67369 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-23 16:41:08,369 INFO    MainThread:67369 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 16:41:08,369 INFO    MainThread:67369 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-23 16:41:08,369 INFO    MainThread:67369 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-23 16:41:08,369 INFO    MainThread:67369 [wandb_run.py:_restore():2322] restore
+2025-03-23 16:41:08,369 INFO    MainThread:67369 [wandb_run.py:_restore():2328] restore done
+2025-03-23 16:41:11,010 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-23 16:41:11,010 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-23 16:41:11,011 INFO    MainThread:67369 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-03-23 16:51:14,156 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_165114-gltv6pvw/logs/debug.log
+2025-03-23 16:51:14,157 INFO    MainThread:67369 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_165114-gltv6pvw/logs/debug-internal.log
+2025-03-23 16:51:14,157 INFO    MainThread:67369 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x146e7cfb0>
+2025-03-23 16:51:14,157 INFO    MainThread:67369 [wandb_init.py:init():761] calling init triggers
+2025-03-23 16:51:14,157 INFO    MainThread:67369 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 16:51:14,157 INFO    MainThread:67369 [wandb_init.py:init():784] starting backend
+2025-03-23 16:51:14,157 INFO    MainThread:67369 [wandb_init.py:init():788] sending inform_init request
+2025-03-23 16:51:14,158 INFO    MainThread:67369 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-03-23 16:51:14,158 INFO    MainThread:67369 [wandb_init.py:init():798] backend started and connected
+2025-03-23 16:51:14,169 INFO    MainThread:67369 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-23 16:51:14,170 INFO    MainThread:67369 [wandb_init.py:init():891] updated telemetry
+2025-03-23 16:51:14,171 INFO    MainThread:67369 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-23 16:51:15,735 INFO    MainThread:67369 [wandb_init.py:init():985] run resumed
+2025-03-23 16:51:15,737 INFO    MainThread:67369 [wandb_init.py:init():990] starting run threads in backend
+2025-03-23 16:51:15,903 INFO    MainThread:67369 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-23 16:51:15,903 INFO    MainThread:67369 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-23 16:51:15,903 INFO    MainThread:67369 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-23 16:51:15,903 INFO    MainThread:67369 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-23 16:51:15,904 INFO    MainThread:67369 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-23 16:51:23,450 INFO    MainThread:67369 [wandb_run.py:_finish():2112] finishing run wsincos1025/wandb_demo/gltv6pvw
+2025-03-23 16:51:23,451 INFO    MainThread:67369 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-23 16:51:23,451 INFO    MainThread:67369 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 16:51:23,451 INFO    MainThread:67369 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-23 16:51:23,451 INFO    MainThread:67369 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-23 16:51:23,451 INFO    MainThread:67369 [wandb_run.py:_restore():2322] restore
+2025-03-23 16:51:23,452 INFO    MainThread:67369 [wandb_run.py:_restore():2328] restore done
+2025-03-23 16:51:25,038 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-23 16:51:25,039 INFO    MainThread:67369 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-23 16:51:25,041 INFO    MainThread:67369 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-03-23 17:04:11,120 INFO    MainThread:67369 [pyagent.py:run():322] Starting sweep agent: entity=None, project=None, count=5
+2025-03-23 17:08:13,084 INFO    MsgRouterThr:67369 [mailbox.py:close():129] Closing mailbox, abandoning 5 handles.
+2025-03-23 17:08:23,497 INFO    Thread-108 (_run_job):67369 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-23 17:08:23,498 INFO    Thread-108 (_run_job):67369 [wandb_setup.py:_flush():67] Configure stats pid to 67369
+2025-03-23 17:08:23,498 INFO    Thread-108 (_run_job):67369 [wandb_setup.py:_flush():67] Loading settings from /Users/wsincos/.config/wandb/settings
+2025-03-23 17:08:23,498 INFO    Thread-108 (_run_job):67369 [wandb_setup.py:_flush():67] Loading settings from /Users/wsincos/Desktop/动手学深度学习/tools/wandb/settings
+2025-03-23 17:08:23,498 INFO    Thread-108 (_run_job):67369 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-23 17:08:23,498 INFO    Thread-108 (_run_job):67369 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_170823-3tv0t8oj/logs/debug.log
+2025-03-23 17:08:23,498 INFO    Thread-108 (_run_job):67369 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_170823-3tv0t8oj/logs/debug-internal.log
+2025-03-23 17:08:23,499 INFO    Thread-108 (_run_job):67369 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x157aa5dc0>
+2025-03-23 17:08:23,499 INFO    Thread-108 (_run_job):67369 [wandb_init.py:init():761] calling init triggers
+2025-03-23 17:08:23,499 INFO    Thread-108 (_run_job):67369 [wandb_init.py:init():766] wandb.init called with sweep_config: {'batch_size': 168, 'ckpt_path': 'checkpoint.pt', 'dropout_p': 0.35290351777907875, 'epochs': 10, 'hidden_layer_width': 96, 'lr': 4.793596396745288e-05, 'optim_type': 'SGD', 'project_name': 'wandb_demo'}
+config: {'project_name': 'wandb_demo', 'batch_size': 256, 'hidden_layer_width': 64, 'dropout_p': 0.1, 'lr': 0.0001, 'optim_type': 'Adam', 'epochs': 15, 'ckpt_path': 'checkpoint.pt', '_wandb': {'code_path': 'code/wandb.ipynb'}}
+2025-03-23 17:08:23,499 INFO    Thread-108 (_run_job):67369 [wandb_init.py:init():784] starting backend
+2025-03-23 17:08:23,499 INFO    Thread-108 (_run_job):67369 [wandb_init.py:init():788] sending inform_init request
+2025-03-23 17:08:23,504 INFO    Thread-108 (_run_job):67369 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-03-23 17:08:23,504 INFO    Thread-108 (_run_job):67369 [wandb_init.py:init():798] backend started and connected
+2025-03-23 17:08:23,506 INFO    Thread-108 (_run_job):67369 [wandb_run.py:_config_callback():1261] config_cb None None {'batch_size': 168, 'ckpt_path': 'checkpoint.pt', 'dropout_p': 0.35290351777907875, 'epochs': 10, 'hidden_layer_width': 96, 'lr': 4.793596396745288e-05, 'optim_type': 'SGD', 'project_name': 'wandb_demo'}
+2025-03-23 17:08:23,514 INFO    Thread-108 (_run_job):67369 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-23 17:08:23,515 INFO    Thread-108 (_run_job):67369 [wandb_init.py:init():891] updated telemetry
+2025-03-23 17:08:23,515 INFO    Thread-108 (_run_job):67369 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-23 17:09:53,523 ERROR   Thread-108 (_run_job):67369 [wandb_init.py:init():1478] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/response_handle.py", line 109, in wait_async
+    await asyncio.wait_for(evt.wait(), timeout=timeout)
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/tasks.py", line 519, in wait_for
+    async with timeouts.timeout(timeout):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/timeouts.py", line 115, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 941, in init
+    result = wait_with_progress(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 24, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 87, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 30, in run
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/concurrent/futures/_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 74, in run
+    return asyncio.run(self._run_or_cancel(fn))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/base_events.py", line 685, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 98, in _run_or_cancel
+    return fn_task.result()
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 82, in progress_loop_with_timeout
+    return await _wait_handles_async(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 130, in _wait_handles_async
+    async with asyncio_compat.open_task_group() as task_group:
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/contextlib.py", line 217, in __aexit__
+    await anext(self.gen)
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 190, in open_task_group
+    await task_group._wait_all()
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 159, in _wait_all
+    raise exc
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 128, in wait_single
+    results[index] = await handle.wait_async(timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/mailbox_handle.py", line 126, in wait_async
+    response = await self._handle.wait_async(timeout=timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/response_handle.py", line 118, in wait_async
+    raise TimeoutError(
+TimeoutError: Timed out waiting for response on wle5mehcfvou
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1468, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 954, in init
+    raise CommError(
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. Please try increasing the timeout with the `init_timeout` setting: `wandb.init(settings=wandb.Settings(init_timeout=120))`.
+2025-03-23 17:09:53,557 ERROR   MainThread:67369 [pyagent.py:_run_jobs_from_queue():234] Run 3tv0t8oj errored:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/response_handle.py", line 109, in wait_async
+    await asyncio.wait_for(evt.wait(), timeout=timeout)
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/tasks.py", line 519, in wait_for
+    async with timeouts.timeout(timeout):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/timeouts.py", line 115, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 941, in init
+    result = wait_with_progress(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 24, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 87, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 30, in run
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/concurrent/futures/_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 74, in run
+    return asyncio.run(self._run_or_cancel(fn))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/asyncio/base_events.py", line 685, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 98, in _run_or_cancel
+    return fn_task.result()
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 82, in progress_loop_with_timeout
+    return await _wait_handles_async(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 130, in _wait_handles_async
+    async with asyncio_compat.open_task_group() as task_group:
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/contextlib.py", line 217, in __aexit__
+    await anext(self.gen)
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 190, in open_task_group
+    await task_group._wait_all()
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/asyncio_compat.py", line 159, in _wait_all
+    raise exc
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 128, in wait_single
+    results[index] = await handle.wait_async(timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/mailbox_handle.py", line 126, in wait_async
+    response = await self._handle.wait_async(timeout=timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/mailbox/response_handle.py", line 118, in wait_async
+    raise TimeoutError(
+TimeoutError: Timed out waiting for response on wle5mehcfvou
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "/var/folders/kk/41l0r_8514l256trkd23wl400000gn/T/ipykernel_67369/2441757606.py", line 7, in train
+    wandb.init(project=config.project_name, config = config.__dict__, name = nowtime, save_code=True)
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1482, in init
+    wandb._sentry.reraise(e)
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/analytics/sentry.py", line 156, in reraise
+    raise exc.with_traceback(sys.exc_info()[2])
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1468, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 954, in init
+    raise CommError(
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. Please try increasing the timeout with the `init_timeout` setting: `wandb.init(settings=wandb.Settings(init_timeout=120))`.
+
+2025-03-23 17:11:19,505 WARNING MsgRouterThr:67369 [router.py:message_loop():63] message_loop has been closed
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/interface/router_sock.py", line 27, in _read_message
+    return self._sock_client.read_server_response(timeout=1)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 235, in read_server_response
+    data = self._read_packet_bytes(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 220, in _read_packet_bytes
+    raise SockClientClosedError
+wandb.sdk.lib.sock_client.SockClientClosedError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/interface/router.py", line 56, in message_loop
+    msg = self._read_message()
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/pytorch/lib/python3.12/site-packages/wandb/sdk/interface/router_sock.py", line 29, in _read_message
+    raise MessageRouterClosedError from e
+wandb.sdk.interface.router.MessageRouterClosedError
+2025-03-23 17:11:19,513 INFO    MsgRouterThr:67369 [mailbox.py:close():129] Closing mailbox, abandoning 1 handles.

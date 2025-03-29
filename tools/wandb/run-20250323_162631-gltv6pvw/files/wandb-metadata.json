@@ -1,0 +1,40 @@
+{
+  "os": "macOS-15.3.2-arm64-arm-64bit",
+  "python": "CPython 3.12.2",
+  "startedAt": "2025-03-23T08:26:31.449316Z",
+  "program": "/Users/wsincos/Desktop/动手学深度学习/tools/wandb.ipynb",
+  "codePath": "wandb.ipynb",
+  "email": "wsincos1025@gmail.com",
+  "root": "/Users/wsincos/Desktop/动手学深度学习/tools",
+  "host": "JinyudeMacBook-Air.local",
+  "executable": "/opt/anaconda3/envs/pytorch/bin/python",
+  "codePathLocal": "wandb.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "290621497344"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "290621497344"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M2",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 16,
+    "swapTotalBytes": "3221225472",
+    "ramTotalBytes": "17179869184"
+  }
+}

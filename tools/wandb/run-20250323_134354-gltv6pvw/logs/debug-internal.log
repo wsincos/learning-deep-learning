@@ -1,0 +1,17 @@
+{"time":"2025-03-23T13:43:54.528358+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_134354-gltv6pvw/logs/debug-core.log"}
+{"time":"2025-03-23T13:43:55.051966+08:00","level":"INFO","msg":"created new stream","id":"gltv6pvw"}
+{"time":"2025-03-23T13:43:55.052386+08:00","level":"INFO","msg":"stream: started","id":"gltv6pvw"}
+{"time":"2025-03-23T13:43:55.052631+08:00","level":"INFO","msg":"handler: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T13:43:55.052716+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T13:43:55.052908+08:00","level":"INFO","msg":"sender: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T13:43:56.612831+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T13:43:56.614235+08:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-03-23T13:46:53.643717+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-23T13:46:53.645547+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-23T13:46:54.649761+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact source-wandb_demo-_Users_wsincos_Desktop_________tools_wandb.ipynb","runtime_seconds":1.008525958}],"total_operations":1}}
+{"time":"2025-03-23T13:46:57.144934+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-23T13:46:57.682261+08:00","level":"INFO","msg":"stream: closing","id":"gltv6pvw"}
+{"time":"2025-03-23T13:46:57.682319+08:00","level":"INFO","msg":"sender: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T13:46:57.682309+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T13:46:57.682573+08:00","level":"INFO","msg":"handler: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T13:46:57.682664+08:00","level":"INFO","msg":"stream: closed","id":"gltv6pvw"}

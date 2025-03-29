@@ -1,0 +1,18 @@
+wandb_version: 1
+
+batch_size:
+  value: 168
+ckpt_path:
+  value: checkpoint.pt
+dropout_p:
+  value: 0.35290351777907875
+epochs:
+  value: 10
+hidden_layer_width:
+  value: 96
+lr:
+  value: 4.793596396745288e-05
+optim_type:
+  value: SGD
+project_name:
+  value: wandb_demo

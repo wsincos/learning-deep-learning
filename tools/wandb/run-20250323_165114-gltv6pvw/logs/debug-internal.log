@@ -1,0 +1,16 @@
+{"time":"2025-03-23T16:51:14.159293+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_165114-gltv6pvw/logs/debug-core.log"}
+{"time":"2025-03-23T16:51:14.270152+08:00","level":"INFO","msg":"created new stream","id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:14.270187+08:00","level":"INFO","msg":"stream: started","id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:14.270221+08:00","level":"INFO","msg":"handler: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:14.270217+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:14.270247+08:00","level":"INFO","msg":"sender: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:15.739416+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T16:51:23.452567+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-23T16:51:23.453695+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-23T16:51:24.469278+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.41823725,"progress":"794B/794B"}],"total_operations":1}}
+{"time":"2025-03-23T16:51:24.505654+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-23T16:51:25.044534+08:00","level":"INFO","msg":"stream: closing","id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:25.044585+08:00","level":"INFO","msg":"handler: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:25.044599+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:25.044603+08:00","level":"INFO","msg":"sender: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:51:25.044882+08:00","level":"INFO","msg":"stream: closed","id":"gltv6pvw"}

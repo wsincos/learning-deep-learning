@@ -1,0 +1,22 @@
+{"time":"2025-03-23T16:09:01.661834+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_160901-gltv6pvw/logs/debug-core.log"}
+{"time":"2025-03-23T16:09:01.784146+08:00","level":"INFO","msg":"created new stream","id":"gltv6pvw"}
+{"time":"2025-03-23T16:09:01.784428+08:00","level":"INFO","msg":"stream: started","id":"gltv6pvw"}
+{"time":"2025-03-23T16:09:01.784602+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:09:01.784686+08:00","level":"INFO","msg":"handler: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:09:01.784749+08:00","level":"INFO","msg":"sender: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:09:02.707597+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T16:09:02.863044+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T16:12:00.71392+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T16:12:00.733367+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T16:16:41.52186+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T16:16:43.854225+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T16:16:52.223715+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T16:16:52.227745+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-23T16:16:52.230623+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-23T16:16:53.236753+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact mnist","runtime_seconds":10.805275458,"subtasks":[{"desc":"MNIST/raw/train-images-idx3-ubyte","runtime_seconds":9.727784042,"progress":"19.7MB/44.9MB"}]},{"desc":"uploading output.log","runtime_seconds":0.4300175,"progress":"73B/73B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.430004167,"progress":"162B/162B"},{"desc":"uploading config.yaml","runtime_seconds":0.155346959,"progress":"815B/815B"}],"total_operations":4}}
+{"time":"2025-03-23T16:17:00.819456+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-23T16:17:01.262775+08:00","level":"INFO","msg":"stream: closing","id":"gltv6pvw"}
+{"time":"2025-03-23T16:17:01.262855+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:17:01.262871+08:00","level":"INFO","msg":"sender: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:17:01.263051+08:00","level":"INFO","msg":"handler: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:17:01.263095+08:00","level":"INFO","msg":"stream: closed","id":"gltv6pvw"}

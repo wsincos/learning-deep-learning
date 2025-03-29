@@ -1,0 +1,16 @@
+{"time":"2025-03-23T16:26:31.450327+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/wsincos/Desktop/动手学深度学习/tools/wandb/run-20250323_162631-gltv6pvw/logs/debug-core.log"}
+{"time":"2025-03-23T16:26:31.564324+08:00","level":"INFO","msg":"created new stream","id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:31.564387+08:00","level":"INFO","msg":"sender: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:31.564385+08:00","level":"INFO","msg":"handler: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:31.564396+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:31.564415+08:00","level":"INFO","msg":"stream: started","id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:38.018933+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T16:26:47.139639+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-23T16:26:47.1406+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-23T16:26:48.148699+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-gltv6pvw-good_cases","runtime_seconds":3.013254542,"subtasks":[{"desc":"media/images/47316f39f26218df3aa7.png","runtime_seconds":1.675408917,"progress":"3.3KB/3.3KB"},{"desc":"media/images/1a92f77038e525eb91a1.png","runtime_seconds":1.6750642500000001,"progress":"3.5KB/3.5KB"},{"desc":"media/images/25f0499e542c10d4fbf5.png","runtime_seconds":1.675057458,"progress":"3.5KB/3.5KB"},{"desc":"media/images/4c6904d4adf6798621d4.png","runtime_seconds":1.6743853340000001,"progress":"3.7KB/3.7KB"},{"desc":"media/images/854cad9e7eba83ca6472.png","runtime_seconds":1.674377792,"progress":"3.8KB/3.8KB"},{"desc":"media/images/604bc6ef761ac8866fe9.png","runtime_seconds":1.674363959,"progress":"3.3KB/3.3KB"},{"desc":"media/images/d95db35cf2e6c2d14f94.png","runtime_seconds":1.672939458,"progress":"3.4KB/3.4KB"},{"desc":"media/images/bf95f84023de15998ba8.png","runtime_seconds":1.672935125,"progress":"3.5KB/3.5KB"},{"desc":"media/images/0ae2d0c97740496b1a79.png","runtime_seconds":1.6729258329999999,"progress":"3.5KB/3.5KB"},{"desc":"media/images/053f88f11ee54201b890.png","runtime_seconds":1.672914958,"progress":"3.8KB/3.8KB"}]},{"desc":"uploading artifact run-gltv6pvw-bad_cases","runtime_seconds":1.014803},{"desc":"uploading output.log","runtime_seconds":0.627677417,"progress":"540B/540B"},{"desc":"uploading config.yaml","runtime_seconds":0.423281458,"progress":"794B/794B"}],"total_operations":4}}
+{"time":"2025-03-23T16:26:51.317744+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-23T16:26:51.90353+08:00","level":"INFO","msg":"stream: closing","id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:51.903576+08:00","level":"INFO","msg":"handler: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:51.903596+08:00","level":"INFO","msg":"sender: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:51.903589+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gltv6pvw"}
+{"time":"2025-03-23T16:26:51.903844+08:00","level":"INFO","msg":"stream: closed","id":"gltv6pvw"}
